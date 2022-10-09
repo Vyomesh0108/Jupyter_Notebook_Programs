@@ -1,0 +1,35 @@
+* Scikit-leran :-
+
+-> It is one of the most useful machine learning library.
+-> It is created in python.
+-> Python, Numpy, Matplotlib, Scipy is mainly used to create Scikit-learn.
+-> It was developed in August 2013.
+-> It is mainly used for modeling the data.
+-> A collection of data is called Dataset.
+-> It is having following two components :-
+	1) Features.
+	2) Response.
+
+	1) Features :
+		-> The variable of the data are called features.
+		-> They are also called predictors, inputs and attributes.
+
+			* Feature metrics :- It is the collection of features, in case there are more than one.
+
+			* Feature names :- It is the list of all the names of the features.
+
+	2) Response :
+		-> It is the output variable that basically depends upon the features variables.
+		-> They are also known as Target, label or output.
+
+			* Response vector :- It is used to represent response column.
+							   :- Generally, we have just one response column.
+
+			* Target names :- It represent the possible values taken by a response vector.
+
+-> Scikit-learn library includes datasets like iris and digits for classification and the Boston house prices for regression.
+
+-> To perform process in Scikit-learn following 3 steps must be executed :-
+	1) Load the data set.
+	2) Split the data set.
+	3) Train the model.
