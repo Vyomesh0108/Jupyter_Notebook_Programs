@@ -1,0 +1,42 @@
+<college>
+    <student>
+        <id> 1 </id>
+        <name> Vyomesh </name>
+        <per> 90 </per>
+    </student>
+    <student>
+        <id> 2 </id>
+        <name> Vrutti </name>
+        <per> 70 </per>
+    </student>
+    <student>
+        <id> 3 </id>
+        <name> Darsh </name>
+        <per> 80 </per>
+    </student>
+    <student>
+        <id> 4 </id>
+        <name> Dhyeya </name>
+        <per> 60 </per>
+    </student>
+    <student>
+        <id> 5 </id>
+        <name> Karan </name>
+        <per> 40 </per>
+    </student>
+    <student>
+        <id> 6 </id>
+        <name> Kirtan </name>
+        <per> 50 </per>
+    </student>
+    <student>
+        <id> 7 </id>
+        <name> Pankti </name>
+        <per> 20 </per>
+    </student>
+    <student>
+        <id> 8 </id>
+        <name> Milan </name>
+        <per> 30 </per>
+    </student>
+</college>
