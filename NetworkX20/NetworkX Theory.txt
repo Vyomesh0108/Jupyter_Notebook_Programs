@@ -1,0 +1,5 @@
+* NetworkX :-
+
+-> NetworkX is a python language software packages for the creation, manipulation and study of the structure, dynamics and functions of complex network.
+-> It is a high productivity software for complex problem analysis.
+-> It is mainly used to draw different graphs. 
