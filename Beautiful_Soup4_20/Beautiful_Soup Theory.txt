@@ -1,0 +1,5 @@
+* Beautiful Soup :-
+
+-> Beautiful Soup is a python library for getting data out of HTML, XML and other markup languages.
+-> Suppose, You have some web pages that displays data relevant to your search, but doesn't allow them downloading directly, but beautiful Soup helps you to pull particular content from web page.
+-> It is a tool for web scrapping that helps you to clean up and parse documents you have pull down from the web.
