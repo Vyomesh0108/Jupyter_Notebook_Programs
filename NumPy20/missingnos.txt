@@ -1,0 +1,4 @@
+10 gtu 30 gtu 50
+100 200 msu 400 msu
+gtu 20 msu 40 gtu
+10 msu 30 gtu 50

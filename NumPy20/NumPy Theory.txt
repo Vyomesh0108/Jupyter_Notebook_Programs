@@ -1,0 +1,13 @@
+* NumPy:-
+
+-> Numpy was developed by Travis Oliphant in 2005.
+-> It stands for numerical python.
+-> It works with an array and multi-dimensional.
+-> It is used to perform linear algebra, shape manipulation and fourier transform.
+-> It is generally used with pandas, SciPy (scientific python), Matplotlib, etc.
+-> It is used to perform different operations on array and easily with the speed. 
+-> It is used in data science where speed resources are highly important.
+
+* List:-
+
+-> List is the collection of multiple types of values, where NumPy array(ndarray) stores only one type of value and more importantly NumPy array stores value in one continuous memory space, so it can be store, read, manipulate very easily, faster and efficiently.
