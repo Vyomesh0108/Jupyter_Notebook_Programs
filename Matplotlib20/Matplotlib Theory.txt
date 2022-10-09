@@ -1,0 +1,96 @@
+* Matplotlib:- 
+
+-> Matplotlib was developed by Michael Droettboom in 2003.
+-> It is a plotting library for the python programming language and its numerical mathematics extension NumPy.
+-> It provides an object-oriented API for embedding plots into applications using general-purpose GUI toolkits.
+-> It is used to draw different types of graphs on a given data.
+
+
+* matplotlib.pyplot -> It is a collection of command style functions that make matplotlib work like MATLAB. 
+			  -> Each pyplot function makes some changes to a figure.
+
+
+* rcParams -> It stands for "run command/runtime configuration" Parameters.
+	     -> It is used for customizing matplotlib.
+
+
+* figure.figsize -> This attribute allows us to specify the width & height of a figure in unit inches.
+
+
+* subplots() -> This method provides a way to plot multiple plots on a single figure.
+		 -> Given the number of rows & columns, it returns a tuple (fig, ax), giving a single figure fig with an array of axes ax.
+
+
+* pyplot -> pyplot is a package methods to plot graphs in matplotlib.
+
+
+* linestyle :- 
+	
+		Character			Description
+
+		  '-'				solid line style
+		  '--'			dashed line style		
+		  '-.'			dash-dot line style
+		  ':'				dotted line style
+
+
+* Format Strings :-
+
+	'b'   -> Blue markers with default shape.
+	'or'  -> Red circles.
+	'-g'  -> Green solid line.
+	'--'  -> Dashed line with default color.
+	'^k:' -> Black triangle_up markers connected by dotted line.
+
+
+* Markers :-
+	
+		Character			Description
+
+		  '.'				Point marker
+		  ','				Pixel marker
+		  'o'				Circle marker
+		  'v'				Triangle_down marker
+		  '^'				Triangle_up marker
+		  '<'				Triangle_left marker		  
+		  '>'				Triangle_right marker
+		  '1'				Tri_down marker
+		  '2'				Tri_up marker
+		  '3'				Tri_left marker
+		  '4'				Tri_right marker
+		  's'				Square marker
+		  'p'				Pentagon marker
+		  '*'				Star marker
+		  'h'				Hexagon1 marker
+		  'H'				Hexagon2 marker
+		  '+'				Plus marker
+		  'x'				x marker
+		  'D'				Diamond marker
+		  'd'				Thin_diamond marker
+		  '|'				Vline marker
+		  '_'				Hline marker
+
+
+* Colors :-
+
+		Character			Description
+
+		  'b'				Blue
+		  'g'				Green
+		  'r'				Red
+		  'c'				Cyan
+		  'm'				Magenta
+		  'y'				Yellow
+		  'k'				Black
+		  'w'				White
+
+	-> and, the 'CN' colors that index into the default property cycle.
+	-> If the color is the only part of the format string, you can additionally use any matplotlib strings ("#008000")
+
+
+* Histogram :-
+
+-> Histogram is like a bar graph, but here, it can generate bar graphs on a single data list.
+-> It is a graph to show frequency distribution.
+-> It takes single data list and put them on X axis and show frequency on Y axis from same data using bars.
+-> It can be used when you have numerical data only.
